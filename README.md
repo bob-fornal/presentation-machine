@@ -3,7 +3,7 @@
 Presentation Hardware and Software
 
 * Pixelated (8-bit) Font
-* Green and Orange background to show brighter edges
+* Green, Orange, Yellow font versions with background to show brighter edges
 
 ## Atari 2600
 
